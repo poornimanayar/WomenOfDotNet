@@ -2,7 +2,7 @@
 title: "Poornima Nayar"
 profileimage: "/images/profile-pictures/poornima-nayar.jpg"
 coverimage: "/images/profile-pictures/poornima-nayar.jpg"
-tags: ["MVP","Azure","CSharp","Speaking - in person","Speaking - virtual"]
+tags: ["MVP","Azure","CSharp","Speaking - in person","Speaking - virtual","Blazor","Umbraco"]
 twitter: "poornimanayar"
 github: "poornimanayar"
 blogsite: "https://poornimanayar.co.uk/"
@@ -10,6 +10,7 @@ linkedin: "poornimanayar/"
 comments: false
 summary: "I am Poornima Nayar. I am a freelance developer based in Langley, Slough, UK. I have been a developer for over 10 years. I am a mother and I have a passion for Carnatic Music."
 location: "Berkshire, UK"
+pronouns: "she/her"
 ---
 
 
